@@ -1,5 +1,9 @@
 # Master Spell Checker
 
+![alt text](https://github.com/ayushi911/Spell-Checker/blob/master/project.png?raw=true)
+
+<b> This above is the Actual Photo of what the website looks like</b>
+
 ### Introduction 
 Due to the increasing use of phones and digital devices we need to constatntly write something or other, and it becomes
 really inportant that the spellings are correct for a correct interpretation of the text sent by a user.So this project is a method to use the spellings we use 
