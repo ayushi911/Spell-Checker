@@ -19,7 +19,7 @@ For the website:
 <br>
 Coding Part:
 
-- Python 3
+- Python/Python 3
 - basic python libraries(like NLTK, enchant etc.)
 
 <br>
